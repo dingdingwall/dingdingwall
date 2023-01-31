@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code ...
 - 🎨 I'm a 3d artist
 - 📫 to reach me. @johndalepardillo@gmail.com
-- 
+
 
 <!---
 dingdingwall/dingdingwall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

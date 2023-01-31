@@ -2,7 +2,9 @@
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning to code ...
 - 🎨 I'm a 3d artist
-- 📫 to reach me. @johndalepardillo@gmail.com
+- 📫 to reach me. @johndalepardillo@gmail.com 
+
+🎨 + my 3d arts are here: dingdingwalls.artstation.com
 
 
 <!---

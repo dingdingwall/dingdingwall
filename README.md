@@ -2,6 +2,8 @@
 🌱 - I'm currently learning web development, 3D modeling, 3D animation
 
 
+# Here are my 3D arts
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://dingdingwalls.artstation.com/))
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dingdingwall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@johndalepardillo) 
 
@@ -13,11 +15,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dingdingwall&show_icons=true&locale=en&layout=compact" alt="dingdingwall" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dingdingwall&" alt="dingdingwall" /></p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=@dingdingwall&icon=0&color=0)](https://visitcount.itsvg.in)

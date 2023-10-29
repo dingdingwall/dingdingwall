@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dingdingwallx" target="blank"><img src="https://img.shields.io/twitter/follow/dingdingwallx?logo=twitter&style=for-the-badge" alt="dingdingwallx" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development, 3D modeling, 3D animation **
 
 - 📫 How to reach me **johndalepardillo@gmail.com**
 

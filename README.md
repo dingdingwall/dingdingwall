@@ -1,4 +1,6 @@
 ![John Dale](https://pbs.twimg.com/profile_banners/1510868495646396418/1697478127/1500x500)
+
+
 # 💫 Hi, I'm John Dale 👋
 🌱 - I'm currently learning web development, 3D modeling, 3D animation. (newbie)
 

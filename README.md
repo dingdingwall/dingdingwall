@@ -1,5 +1,6 @@
 # 💫 Hi, I'm John Dale 👋
 🌱 - I'm currently learning web development, 3D modeling, 3D animation. (newbie)
+🧟 - trying to survive college. 
 
 
 

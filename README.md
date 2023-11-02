@@ -17,7 +17,8 @@
 
 
 ## 🎨 [Visit my Arstation profile ](https://dingdingwalls.artstation.com/)  
- ![artstation](https://imgs.search.brave.com/KZOVk_Znsyp2LLHeArPtu7M620VrFpMZeW_oUE2rzi8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ29zLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/MC9hcnRzdGF0aW9u/LWxvZ29fYnJhbmRs/b2dvcy5uZXRfMWVy/aXUtNTEyeDUxMi5w/bmc)
+![art](https://imgs.search.brave.com/YEE2exXB4rgXseEUm4RVFg5FO3Aa-8MvWxeklpmbbis/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hcnRzdGF0aW9u/LXdvcmRtYXJrLTEu/c3Zn.svg)
+ 
 
 ![Art](https://cdna.artstation.com/p/assets/images/images/058/567/332/smaller_square/john-dale-r-pardillo-wawa.jpg?1674481572)   ![art](https://cdna.artstation.com/p/assets/images/images/059/542/680/smaller_square/john-dale-r-pardillo-fo2xrcfagaebwpl.jpg?1676603027) 
 ![art3](https://cdna.artstation.com/p/assets/images/images/058/041/562/smaller_square/john-dale-r-pardillo-asdasdasdasd.jpg?1673273154)  ![art4](https://cdna.artstation.com/p/assets/images/images/058/676/238/smaller_square/john-dale-r-pardillo-asdasd.jpg?1674711705)

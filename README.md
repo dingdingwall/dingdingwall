@@ -18,7 +18,7 @@
 
 ## 🎨 [Click this to view  my 3D arts ](https://dingdingwalls.artstation.com/) 
 
-![Art](https://cdna.artstation.com/p/assets/images/images/058/567/332/smaller_square/john-dale-r-pardillo-wawa.jpg?1674481572)
+![Art](https://cdna.artstation.com/p/assets/images/images/058/567/332/smaller_square/john-dale-r-pardillo-wawa.jpg?1674481572)   ![art](https://cdna.artstation.com/p/assets/images/images/059/542/680/smaller_square/john-dale-r-pardillo-fo2xrcfagaebwpl.jpg?1676603027)
 
 
 

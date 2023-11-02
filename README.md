@@ -17,7 +17,7 @@
 
 
 ## 🎨 [Visit my Arstation profile ](https://dingdingwalls.artstation.com/)  
-![art](https://imgs.search.brave.com/YEE2exXB4rgXseEUm4RVFg5FO3Aa-8MvWxeklpmbbis/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hcnRzdGF0aW9u/LXdvcmRtYXJrLTEu/c3Zn.svg)
+
  
 
 ![Art](https://cdna.artstation.com/p/assets/images/images/058/567/332/smaller_square/john-dale-r-pardillo-wawa.jpg?1674481572)   ![art](https://cdna.artstation.com/p/assets/images/images/059/542/680/smaller_square/john-dale-r-pardillo-fo2xrcfagaebwpl.jpg?1676603027) 

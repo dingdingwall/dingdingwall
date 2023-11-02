@@ -18,6 +18,8 @@
 
 ## 🎨 [Click this to view  my 3D arts ](https://dingdingwalls.artstation.com/) 
 
+![Art](https://cdna.artstation.com/p/assets/images/images/058/567/332/large/john-dale-r-pardillo-wawa.jpg?1674481572)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dingdingwall&show_icons=true&locale=en&layout=compact" alt="dingdingwall" /></p>

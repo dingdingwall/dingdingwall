@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dingdingwall&show_icons=true&locale=en&layout=compact" alt="dingdingwall" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dingdingwall&" alt="dingdingwall" /></p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

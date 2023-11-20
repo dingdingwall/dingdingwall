@@ -4,6 +4,8 @@
 # 💫 Hi, I'm John Dale 👋
 🌱 - I'm currently learning web development, 3D modeling, 3D animation. (newbie)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+
 
 🧟 - trying to survive college. 
 

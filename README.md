@@ -1,7 +1,9 @@
 ![John Dale](https://pbs.twimg.com/profile_banners/1510868495646396418/1697478127/1500x500)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Dale!;" />
+</h1>
 
-# 💫 Hi, I'm John Dale 👋
 🌱 - I'm currently learning web development, 3D modeling, 3D animation. (newbie)
 
 

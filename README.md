@@ -30,6 +30,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dingdingwall&show_icons=true&locale=en&layout=compact" alt="dingdingwall" /></p>
 
+![John Dale's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radicalicons=true)
+
 
 
 ### ✍️ Random Dev Quote

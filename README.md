@@ -20,13 +20,7 @@
 
 
 ## 🎨 [Visit my Arstation profile ](https://dingdingwalls.artstation.com/)  
-
-
- 
-
-![Art](https://cdna.artstation.com/p/assets/images/images/058/567/332/smaller_square/john-dale-r-pardillo-wawa.jpg?1674481572)   ![art](https://cdna.artstation.com/p/assets/images/images/059/542/680/smaller_square/john-dale-r-pardillo-fo2xrcfagaebwpl.jpg?1676603027) 
   
-
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dingdingwall&theme=radical&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 

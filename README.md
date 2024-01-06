@@ -1,4 +1,4 @@
-![John Dale](https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/395467903_7266478873469137_5250310713067387572_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFfVTpkg7Q_1How3HoOMA0MeaO8lHvyMpl5o7yUe_IymaUmh25drDlUfJvbKKy66OCqndaL6jwGYU2WprD5tOEa&_nc_ohc=RgQzvt7XjdAAX-v95Sy&_nc_ht=scontent-mnl1-1.xx&oh=00_AfD3kwDAUTw6WL6DAMAcyMObUPIkVBqKdG-tWzoQJvh3Cw&oe=6591894C)
+![John Dale](https://scontent.fmnl9-2.fna.fbcdn.net/v/t39.30808-6/395467903_7266478873469137_5250310713067387572_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFfVTpkg7Q_1How3HoOMA0MeaO8lHvyMpl5o7yUe_IymaUmh25drDlUfJvbKKy66OCqndaL6jwGYU2WprD5tOEa&_nc_ohc=bGpftfQyPnQAX9kFRGa&_nc_ht=scontent.fmnl9-2.fna&oh=00_AfCjSQuHw3AOeKjwKh8WCXFl3a8RP5pIbUpTOSAacKb2gw&oe=659D66CC)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Dale+👨‍💻;" />
